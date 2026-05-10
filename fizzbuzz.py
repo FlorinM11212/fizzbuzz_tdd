@@ -1,1 +1,2 @@
-# FizzBuzz logic module
+def fizzbuzz(n):
+    return "1"
